@@ -1,0 +1,86 @@
+13/Apr/2022:14:51:02 040 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:5.0^4.0 is:625.0
+13/Apr/2022:15:02:16 766 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:1.0 is:0.0
+13/Apr/2022:15:10:20 216 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:10.0 is:2.302585092994046
+13/Apr/2022:15:10:27 535 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:2.0^4.0 is:16.0
+13/Apr/2022:15:10:33 119 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 100.0 is:10.0
+13/Apr/2022:15:10:41 078 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:5 is:120
+13/Apr/2022:15:11:58 207 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:3.0^5.0 is:243.0
+13/Apr/2022:15:20:54 074 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 9.0 is:3.0
+13/Apr/2022:15:20:54 079 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 4.0 is:2.0
+13/Apr/2022:15:20:54 092 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:2.0^4.0 is:16.0
+13/Apr/2022:15:20:54 094 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:5.0^2.0 is:25.0
+13/Apr/2022:15:20:54 096 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:4.0 is:1.3862943611198906
+13/Apr/2022:15:20:54 098 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:5.0 is:1.6094379124341003
+13/Apr/2022:15:20:54 101 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:5.0 is:1.6094379124341003
+13/Apr/2022:15:20:54 102 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:11.0 is:2.3978952727983707
+13/Apr/2022:15:20:54 115 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:4 is:24
+13/Apr/2022:15:20:54 115 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:5 is:120
+13/Apr/2022:15:20:54 118 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:5 is:120
+13/Apr/2022:15:20:54 118 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:6 is:720
+13/Apr/2022:15:20:54 124 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:3.0^3.0 is:27.0
+13/Apr/2022:15:20:54 124 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:10.0^3.0 is:1000.0
+13/Apr/2022:15:20:54 126 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 4.0 is:2.0
+13/Apr/2022:15:20:54 127 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 10.0 is:3.1622776601683795
+13/Apr/2022:15:34:07 857 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 9.0 is:3.0
+13/Apr/2022:15:34:07 863 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 4.0 is:2.0
+13/Apr/2022:15:34:07 868 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:2.0^4.0 is:16.0
+13/Apr/2022:15:34:07 868 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:5.0^2.0 is:25.0
+13/Apr/2022:15:34:07 872 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:4.0 is:1.3862943611198906
+13/Apr/2022:15:34:07 873 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:5.0 is:1.6094379124341003
+13/Apr/2022:15:34:07 878 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:5.0 is:1.6094379124341003
+13/Apr/2022:15:34:07 878 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:11.0 is:2.3978952727983707
+13/Apr/2022:15:34:07 882 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:4 is:24
+13/Apr/2022:15:34:07 882 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:5 is:120
+13/Apr/2022:15:34:07 891 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:5 is:120
+13/Apr/2022:15:34:07 891 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:6 is:720
+13/Apr/2022:15:34:07 901 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:3.0^3.0 is:27.0
+13/Apr/2022:15:34:07 902 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:10.0^3.0 is:1000.0
+13/Apr/2022:15:34:07 906 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 4.0 is:2.0
+13/Apr/2022:15:34:07 907 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 10.0 is:3.1622776601683795
+13/Apr/2022:15:36:47 782 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 9.0 is:3.0
+13/Apr/2022:15:36:47 788 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 4.0 is:2.0
+13/Apr/2022:15:36:47 791 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:2.0^4.0 is:16.0
+13/Apr/2022:15:36:47 792 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:5.0^2.0 is:25.0
+13/Apr/2022:15:36:47 795 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:4.0 is:1.3862943611198906
+13/Apr/2022:15:36:47 795 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:5.0 is:1.6094379124341003
+13/Apr/2022:15:36:47 797 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:5.0 is:1.6094379124341003
+13/Apr/2022:15:36:47 798 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:11.0 is:2.3978952727983707
+13/Apr/2022:15:36:47 800 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:4 is:24
+13/Apr/2022:15:36:47 800 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:5 is:120
+13/Apr/2022:15:36:47 802 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:5 is:120
+13/Apr/2022:15:36:47 803 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:6 is:720
+13/Apr/2022:15:36:47 805 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:3.0^3.0 is:27.0
+13/Apr/2022:15:36:47 805 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:10.0^3.0 is:1000.0
+13/Apr/2022:15:36:47 807 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 4.0 is:2.0
+13/Apr/2022:15:36:47 807 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 10.0 is:3.1622776601683795
+13/Apr/2022:15:46:44 826 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 16.0 is:4.0
+13/Apr/2022:15:46:44 853 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:2.0^4.0 is:16.0
+13/Apr/2022:15:46:44 853 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:5.0^2.0 is:25.0
+13/Apr/2022:15:46:44 854 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:4.0 is:1.3862943611198906
+13/Apr/2022:15:46:44 855 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:5.0 is:1.6094379124341003
+13/Apr/2022:15:46:44 855 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:5.0 is:1.6094379124341003
+13/Apr/2022:15:46:44 856 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:11.0 is:2.3978952727983707
+13/Apr/2022:15:46:44 861 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:4 is:24
+13/Apr/2022:15:46:44 862 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:5 is:120
+13/Apr/2022:15:46:44 862 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:5 is:120
+13/Apr/2022:15:46:44 863 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:6 is:720
+13/Apr/2022:15:46:44 863 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:3.0^3.0 is:27.0
+13/Apr/2022:15:46:44 863 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:10.0^3.0 is:1000.0
+13/Apr/2022:15:46:44 866 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 4.0 is:2.0
+13/Apr/2022:15:46:44 867 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 10.0 is:3.1622776601683795
+13/Apr/2022:15:51:32 566 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 16.0 is:4.0
+13/Apr/2022:15:51:32 571 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 9.0 is:3.0
+13/Apr/2022:15:51:32 574 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:2.0^3.0 is:8.0
+13/Apr/2022:15:51:32 575 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:5.0^3.0 is:125.0
+13/Apr/2022:15:51:32 589 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:4.0 is:1.3862943611198906
+13/Apr/2022:15:51:32 589 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:5.0 is:1.6094379124341003
+13/Apr/2022:15:51:32 592 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:5.0 is:1.6094379124341003
+13/Apr/2022:15:51:32 593 [ScientificCalculator.java] [INFO] ScientificCalculator Log of:11.0 is:2.3978952727983707
+13/Apr/2022:15:51:32 596 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:3 is:6
+13/Apr/2022:15:51:32 596 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:6 is:720
+13/Apr/2022:15:51:32 606 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:2 is:2
+13/Apr/2022:15:51:32 606 [ScientificCalculator.java] [INFO] ScientificCalculator Factorial of:5 is:120
+13/Apr/2022:15:51:32 609 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:4.0^4.0 is:256.0
+13/Apr/2022:15:51:32 609 [ScientificCalculator.java] [INFO] ScientificCalculator Power of:5.0^3.0 is:125.0
+13/Apr/2022:15:51:32 611 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 4.0 is:2.0
+13/Apr/2022:15:51:32 611 [ScientificCalculator.java] [INFO] ScientificCalculator Square root of 10.0 is:3.1622776601683795
