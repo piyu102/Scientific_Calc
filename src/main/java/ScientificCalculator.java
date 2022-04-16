@@ -61,7 +61,7 @@ public class ScientificCalculator {
 
     public double calSquareRoot(double number) {
         double result = Math.sqrt(number);
-        LOGGER.info("Square root of " + number + " is:" + result);
+        LOGGER.info("Square root - Input : " + number + " Output :" + result);
         return result;
     }
 
@@ -72,19 +72,19 @@ public class ScientificCalculator {
             fact = fact * i;
             i++;
         }
-        LOGGER.info("Factorial of:" + number + " is:" + fact);
+        LOGGER.info("Factorial - Input :" + number + " Output :" + fact);
         return fact;
     }
 
     public double calLogarithm(double number) {
         double result = Math.log(number);
-        LOGGER.info("Log of:" + number + " is:" + result);
+        LOGGER.info("Natural Log - Input :" + number + " Output :" + result);
         return result;
     }
 
     public double calPower(double number, double power) {
         double result = Math.pow(number, power);
-        LOGGER.info("Power of:" + number + "^" + power + " is:" + result);
+        LOGGER.info("Power - Input :" + number + " " + power + " Output :" + result);
         return result;
     }
 
